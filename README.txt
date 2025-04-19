@@ -15,7 +15,6 @@ Distributed data processing (RDDs, DataFrames, Spark SQL)
 
 📚 wikipedia: programming language popularity analysis
 
-🕒 timeusage: time usage dataset processing
 
 🚀 What I Did
 Processed real-world large-scale datasets
