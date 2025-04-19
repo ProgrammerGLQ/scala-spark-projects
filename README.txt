@@ -10,13 +10,15 @@ Functional programming
 
 Distributed data processing (RDDs, DataFrames, Spark SQL)
 
-📁 Submitted Artifacts
-📊 stackoverflow: K-Means clustering on post scores
+Submitted Artifacts
 
+📌 example: Practice Programming Assignment
+📊 stackoverflow: K-Means clustering on post scores
 📚 wikipedia: programming language popularity analysis
 
 
 🚀 What I Did
+
 Processed real-world large-scale datasets
 
 Implemented functional algorithms using Spark
